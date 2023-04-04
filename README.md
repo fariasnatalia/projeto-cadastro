@@ -2,16 +2,16 @@
 
 
 
-# Sobre o projeto<h1>
+# <center> Sobre o projeto<h1>
 
-A aplicação consiste em um formulário para cadastro de nome, email e senha do usuário.
-Os dados inseridos são armazenados no Banco de Dados, e depois são listados no app web, que também apresenta uma lista com todos os usuários cadastrados na tabela.
+## A aplicação consiste em um formulário para cadastro de nome, email e senha do usuário.
+Os dados inseridos são armazenados no Banco de Dados, e depois são listados no servidor web, que também apresenta uma lista com todos os usuários cadastrados em uma tabela.
 
  # <center> 📁 Acesso ao projeto
 
                         Você pode acessar o código fonte do projeto ou baixá-lo.
 
- # 🗄️Estrutura do Projeto <h2>
+ # <center>🗄️Estrutura do Projeto <h2>
  
 - **index.php** -- Responsável pela interface da aplicação
 
